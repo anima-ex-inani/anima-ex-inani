@@ -1,4 +1,4 @@
-# About Voidsoul
+# About Anima ex Inani
 A novice programmer with many things to do.
 
 ## Skillset
